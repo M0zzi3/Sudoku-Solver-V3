@@ -1,1 +1,4 @@
-print('hello world')
+from sudoku import Sudoku
+
+p = Sudoku()
+# plane.show_plane()
