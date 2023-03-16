@@ -18,7 +18,7 @@ def draw_window():
 
     #Plane drawing
     plane_size = 600
-    borderline_thickness = 15
+    borderline_thickness = 11
     innerline_thickness = borderline_thickness - (borderline_thickness/3) *2
 
     def horizontal_line(x,y,thickness):return (x,y,plane_size,thickness)
